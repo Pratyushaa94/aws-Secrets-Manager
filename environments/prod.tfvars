@@ -1,0 +1,5 @@
+secret_name        = "myapp-secret"
+secret_description = "My application prod secret"
+secret_value       = "s3cr3t-prod-789"
+environment        = "prod"
+aws_region         = "us-east-2"
